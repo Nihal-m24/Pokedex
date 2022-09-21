@@ -2,7 +2,8 @@
 
 
 Functionality: 
-The purpose of this app is to show basic information for 600+ Pokémons, such as the name, multiple images, weight and height. The app also allows ussers to save mock Pokémon cards to their photo library. 
+
+The purpose of this app is to show basic information for 600+ Pokémons, such as the name, multiple images, weight, and height. The app allows users to save mock Pokémon cards to their photo library. 
 
 Images: 
 
@@ -11,4 +12,6 @@ Images:
 
 
 Purpose:
-To gain experience creating custom data models, decode JSON data and display it to users. 
+
+To gain experience creating custom data models, decoding JSON data, and displaying it to users. 
+
